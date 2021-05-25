@@ -1,0 +1,90 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Profile5.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+	
+}
+body
+{
+	font-family: monospace;
+}
+.hero
+{
+	position: absolute;
+	width: 1370px;
+	margin-left:  0px;
+	margin-top: 0px;
+	font-family: "Roboto",sans-serif;
+	color:white;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+.button
+{
+	margin-top: 30px;
+	margin-left: 0px;
+}
+
+.btn
+{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+	margin-right: 5px;
+	font-size: 13px;
+	text-transform: uppercase;
+	
+}
+.btn-one
+{
+
+	font-family:"Roboto",sans-serif;
+}
+.btn-one:hover
+{
+
+	background-color:darkorange;
+}
+
+.btn-two
+{
+
+	font-family:"Roboto",sans-serif;
+}
+.btn-two:hover
+{
+
+	background-color:darkorange;
+}
+
+.btn-three{
+
+	font-family:"Roboto",sans-serif;
+}
+.btn-three:hover
+{
+
+	background-color:darkorange;
+}
+
+.btn-four
+{
+
+	font-family:"Roboto",sans-serif;
+}
+.btn-four:hover
+{
+
+	background-color:darkorange;
+}
